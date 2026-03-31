@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Property Listings - Ekasi Rentals</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="listings.html">Properties</a></li>
+                <li><a href="login.html">User Accounts</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="property-listings>">
+            <h1>Available Properties</h1>
+
+            <section id="Search-filter">
+                <h2>Search & Filter</h2>
+                <form>
+                    <label for="location">Location</label>
+                    <input type="text" id="location" name="location" placeholder="Enter township name">
+
+                    <label for="type">Property Type:</label>
+                    <select id="type" name="type">
+                        <option value="backroom">Back Room</option>
+                        <option value="flat">Flat</option>
+                        <option value="house">House</option>
+                    </select>
+                    
+                    <label for="price">Max Price;</label>
+                    <input type="number" id="price" name="price" placeholder="R">
+                    <buuton type="submit">Search</buuton>
+                </form>
+            </section>
+
+            <section id="featured-properties">
+                <h2>Featured Properties</h2>
+                <ul>
+                    <li>
+                        <h3>Cozy Back Room in Khayelitsha</h3>
+                        <p>R2500/month | Shared Kitchen | Close to transport</p>
+                        <img src="images/property1.jpg" alt="Cozy Back Room in Khayelitsha">
+                    </li>
+                    <li>
+                        <h3>Modern Flat in Gugulethu</h3>
+                        <p>R3500/month | 1 Bedroom | Fully Furnished</p>
+                        <img src="images/property2.jpg" alt="Modern Flat in Gugulethu">
+                    </li>
+                    <li>
+                        <h3>Affordable Room in Mitchells Plain</h3>
+                        <p>R2000/month | Shared bathroom| Close to the mall</p>
+                        <img src="images/property3.jpg" alt="Affordable Room in Mitchells Plain">
+                    </li>
+                </ul>
+            </section>
+    </main>
+
+    <Footer>
+        <p>@copy: 2026 Ekasi Rentals. All rights reserved</p>
+        <p>Contact us: info@kasirentals.co.za | +27 123 456 8979</p>
+    </Footer>
+</body>
+</html>
