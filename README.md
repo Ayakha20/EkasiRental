@@ -8,3 +8,7 @@ Name: Ayakha Mangoloti
 Course: IT in Software Development
 
 Module: Web Development
+#Project Overview
+
+# Website Goals and Objectives
+## Goals
