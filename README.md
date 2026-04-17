@@ -22,8 +22,11 @@ To reduce rental fraud by implementing a landlord verifacation system during the
 Homepage, About Us, Contact Page, Property Listing, Search and Filter Functionality, and User Accounts.These will ensure easy navigation and accessibility for all users. 
 # Timeline and Milestones
 Week 1-2: Research and wireframe design 
-Week 3-4: Development of pages 
-Week 5: Testing and user feedback 
+
+Week 3-4: Development of pages
+
+Week 5: Testing and user feedback
+
 Week 6: Final deployment and launch
 # Changelog
 I insetred a form
@@ -32,12 +35,15 @@ I modified the navigation bar of my website
 # References
 ## Images
 Pexels: https://www.pexels.com
+
 Unsplash: https://unplash.com
 ## Design Inspiration
 Airbnb: https://www.airbnb.com
+
 Booking.com: https://www.airbnb.com
 ## Coding Help
 W3School: https://www.w3schools.com
+
 Youtube: https://www.youtube.com
 
 
