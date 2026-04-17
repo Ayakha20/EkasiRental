@@ -30,7 +30,9 @@ Week 5: Testing and user feedback
 Week 6: Final deployment and launch
 # Changelog
 I insetred a form
+
 I inserted a map
+
 I modified the navigation bar of my website
 # References
 ## Images
