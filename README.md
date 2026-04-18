@@ -21,19 +21,27 @@ To reduce rental fraud by implementing a landlord verifacation system during the
 # Key Features and Functionality:
 Homepage, About Us, Contact Page, Property Listing, Search and Filter Functionality, and User Accounts.These will ensure easy navigation and accessibility for all users. 
 # Timeline and Milestones
-Week 1-2: Research and wireframe design 
+Week 1-2: Research and planning of the website, including identifying user needs and analyzing existing rental platforms. 
 
-Week 3-4: Development of pages
+Week 3: Creation of wireframes and design layout using Canva to plan the structure 
 
-Week 5: Testing and user feedback
+Week 4: Development of the website using HTML, including building the homepage and navigation system 
 
-Week 6: Final deployment and launch
+Week 5: Adding features such as search functionality, property listings, and recommendations sections 
+
+Week 6: Testing, debugging, and final adjustments to ensure the website is user friendly 
+
+Week 7: Final submission and documentation preparation. 
 # Changelog
 I insetred a form
 
 I inserted a map
 
 I modified the navigation bar of my website
+
+I added homepagelayout
+
+I added search functionality
 # References
 ## Images
 Pexels: https://www.pexels.com
