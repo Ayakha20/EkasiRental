@@ -42,6 +42,9 @@ I modified the navigation bar of my website
 I added homepagelayout
 
 I added search functionality
+# The Sitemap
+<img width="1024" height="768" alt="EKASI RENTTALS" src="https://github.com/user-attachments/assets/775d15c6-2fa5-4d82-85a5-789b15a81961" />
+
 # References
 ## Images
 Pexels: https://www.pexels.com
