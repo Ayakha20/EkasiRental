@@ -45,6 +45,9 @@ I added search functionality
 # The Sitemap
 <img width="1024" height="768" alt="EKASI RENTTALS" src="https://github.com/user-attachments/assets/775d15c6-2fa5-4d82-85a5-789b15a81961" />
 
+# The wireframe
+<img width="1920" height="1080" alt="EKASI RENTALS HOME  ABOUT  LISTINGS  LOGIN  CONTACT" src="https://github.com/user-attachments/assets/a989b500-18c7-4b9f-9932-31dc87977251" />
+
 # References
 ## Images
 Pexels: https://www.pexels.com
